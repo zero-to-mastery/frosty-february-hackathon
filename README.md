@@ -1,6 +1,6 @@
 ### Frosty February Hackathon for the ZTM community
 
-![](./Frosty February.png)
+![](./Frosty%20February.png)
 
 
 # What is Frosty February?
