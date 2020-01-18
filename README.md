@@ -1,7 +1,6 @@
-# frosty-february-hackathon
-Frosty February Hackathon for the ZTM community
+### Frosty February Hackathon for the ZTM community
 
-![](./frosty-february.png)
+![](./Frosty February.png)
 
 
 # What is Frosty February?
