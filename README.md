@@ -6,10 +6,11 @@
 # What is Frosty February?
 This is the inaugural (first time) event! We hope to make all future February in the ZTM community a Hackathon. So how does it work?
 
-There will be 6 projects led by fellow Star Mentors in the community. Each project can have up to 10 team members and you can join any ONE project below on a first come first serve basis. You can see all of the projects listed below. If you find something that interests you, join it and work in a team led by that specific star mentor. 
+**There will be 6 projects led by fellow Star Mentors in the community. Each project can have up to 10 team members and you can join any ONE project below on a first come first serve basis.** You can see all of the projects listed below. If you find something that interests you, join it and work in a team led by that specific Star Mentor. 
 
-You will have 30 days to complete the project and you can work on it as much or as little as you want. The goal is to gain experience working in teams, and building something together by the end of 30 days that you can be proud of and even hopefully put on your resume!
+**You will have until February 29th to complete the project** and you can work on it as much or as little as you want. The goal is to gain experience working in teams, and building something together by the end of the month that you can be proud of and even hopefully put on your resume!
 
+We will be posting all of the finished projects on here at the end of the month!
 
 
 # Zero To Mastery Hackathon Projects
