@@ -1,4 +1,3 @@
-### Frosty February Hackathon for the ZTM community
 
 ![](./Frosty%20February.png)
 
