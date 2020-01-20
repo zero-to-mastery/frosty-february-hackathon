@@ -23,31 +23,13 @@ You can see the 6 projects available for you to join below that will be run/lead
 >
 > [Project Repo/Instructions](./CSS-Art/README.md) | [Project Preview](https://www.ineedalink.com) | [Join Project](https://discordapp.com/channels/638539461851873287/668624834720432128/668903311910371328)
 
-#### [![SANTAFIED](https://img.shields.io/badge/HTML%20PROJECT-Santafied-critical?style=for-the-badge&logo=HTML5)](./Santafied/)
-
-> A beginner friendly project - utilising HTML, CSS and perhaps a dash of JavaScript to create a simplistic yet elegant website for the magical season of Christmas. Where visitors can find to name but a few:
->
-> -   Gift Ideas
-> -   Christmas Recipes
-> -   Party Games
-> -   Movies
-> -   Facts and Information
->
-> [Project Repo/Instructions](./Santafied/README.md) | [Project Preview](https://www.ineedalink.com) | [Join Project](https://discordapp.com/channels/638539461851873287/668624873416949760/668903477375664197)
-
-#### [![](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20Art%20-blue?style=for-the-badge&logo=Python)](./ASCII-Art/)
-
-> Following the launch of the brand new [Complete Python Developer: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=LEVELUPZTM) course, here is a perfect opportunity to put those new found skills to the test. Here we will be using Python to take an image input which it will then convert into ASCII Art.
->
-> [Project Repo/Instructions](https://github.com/zero-to-mastery/python-art) | [Project Repo](https://discordapp.com/channels/638539461851873287/668624908472811522/668903495016906752)
-
 #### [![](https://img.shields.io/badge/PYTHON%20PROJECT-TWITTER%20BOT%20-blue?style=for-the-badge&logo=Python)](https://github.com/sballgirl11/zerotomastery-twitterbot)
 
 > With the launch of the [Python course](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=LEVELUPZTM), use your new skills to help build our very own Zero To Mastery Twitter Bot! This bot is going to follow and retweet members on Twitter from the Zero To Mastery community. Come help us build a great resource for our community!
 >
 > [Project Repo](https://github.com/sballgirl11/zerotomastery-twitterbot)
 
-#### [React/Node (Express) Full Stack Project] Challenge App
+#### [![](https://img.shields.io/badge/REACT%20PROJECT-Challenge%20App-critical?style=for-the-badge&logo=REACT)](https://github.com/Dan-Y-Ko/zerotomastery-challenge-app)
 
 > This will be a challenge/accountabilty application where users can sign up to the platform and join or create a challenge and follow it to the end, or pay a penalty! Refer to the SPAR! app on mobile to get a better idea.
 >
