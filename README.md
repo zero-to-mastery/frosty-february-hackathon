@@ -41,7 +41,7 @@ You can see the 6 projects available for you to join below that will be run/lead
 >
 > [Project Repo/Instructions](https://github.com/zero-to-mastery/python-art) | [Project Repo](https://discordapp.com/channels/638539461851873287/668624908472811522/668903495016906752)
 
-#### ![Python Project](https://raw.githubusercontent.com/sballgirl11/zerotomastery-twitterbot/master/python-project.png)
+#### [![](https://img.shields.io/badge/PYTHON%20PROJECT-TWITTER%20BOT%20-blue?style=for-the-badge&logo=Python)](https://github.com/sballgirl11/zerotomastery-twitterbot)
 
 > With the launch of the [Python course](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=LEVELUPZTM), use your new skills to help build our very own Zero To Mastery Twitter Bot! This bot is going to follow and retweet members on Twitter from the Zero To Mastery community. Come help us build a great resource for our community!
 >
