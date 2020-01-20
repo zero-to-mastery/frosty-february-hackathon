@@ -47,6 +47,12 @@ You can see the 6 projects available for you to join below that will be run/lead
 >
 > [Project Repo](https://github.com/sballgirl11/zerotomastery-twitterbot)
 
+#### [React/Node (Express) Full Stack Project] Challenge App
+
+> This will be a challenge/accountabilty application where users can sign up to the platform and join or create a challenge and follow it to the end, or pay a penalty! Refer to the SPAR! app on mobile to get a better idea.
+>
+> [Project Repo](https://github.com/Dan-Y-Ko/zerotomastery-challenge-app)
+
 # New To Opensource Projects
 
 If you've never made a pull request before, or participated in an open source project, we recommend taking a look at our [Start Here Guidelines](https://github.com/zero-to-mastery/start-here-guidelines). This repo has everything you need to learn about open source, with a step-by-step guide to making your very first PR.
