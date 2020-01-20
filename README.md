@@ -16,13 +16,6 @@ To make the projects manageable, the project teams are limited to 10 team member
 
 You can see the 6 projects available for you to join below that will be run/lead by a Star Mentor!
 
-#### [![CSS ART](https://img.shields.io/badge/CSS%20PROJECT-Animation%20Nation-yellow?style=for-the-badge&logo=CSS3)](./CSS-Art/)
-
-> A fun, beginner-friendly challenge.
-> What can you come up with, using plain **HTML** and **CSS**? This year, our theme is "Animation Nation"! Unleash your creativity and show us your best work - it can be as simple or complex as you'd like, all we ask is that you use only HTML and pure CSS, and include at least one animation. All work will be proudly displayed on the site for other students to admire. Let's showcase the artistry of ZTM students!
->
-> [Project Repo/Instructions](./CSS-Art/README.md) | [Project Preview](https://www.ineedalink.com) | [Join Project](https://discordapp.com/channels/638539461851873287/668624834720432128/668903311910371328)
-
 #### [![](https://img.shields.io/badge/PYTHON%20PROJECT-TWITTER%20BOT%20-blue?style=for-the-badge&logo=Python)](https://github.com/sballgirl11/zerotomastery-twitterbot)
 
 > With the launch of the [Python course](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=LEVELUPZTM), use your new skills to help build our very own Zero To Mastery Twitter Bot! This bot is going to follow and retweet members on Twitter from the Zero To Mastery community. Come help us build a great resource for our community!
