@@ -11,6 +11,7 @@ The goal is to gain experience working in teams, and building something together
 ## How To Join A Project!
 
 To make the projects manageable, the project teams are limited to 10 team members. Ensuring that you have enough free time you can dedicate to the project, clicking the `join` link on the project you would like to join from the list below. This will take you to your chosen projects dedicated discord channel, now simply enter `-joinproject` to sign up.
+##### ⚠️**NOTE:** You will need to be logged into Discord on your browser. Alternatively find your chosen project's channel in the Discord app!
 
 # Zero To Mastery Hackathon Projects
 
