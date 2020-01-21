@@ -36,7 +36,7 @@ You can see the 6 projects available for you to join below that will be run/lead
 > If you are finding answers to the above questions then you found the right place. This project exactly addresses this fact & tries to explain this fundamental process visually and in words.
 >
 > We are basically building a improved version of [this awesome project](http://latentflip.com/loupe/)
-
+>
 > [Project Repo](https://github.com/r4pt0s/master_the_event_loop)
 
 # New To Opensource Projects
