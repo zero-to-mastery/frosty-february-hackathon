@@ -28,6 +28,17 @@ You can see the 6 projects available for you to join below that will be run/lead
 >
 > [Project Repo](https://github.com/Dan-Y-Ko/zerotomastery-challenge-app)
 
+#### [![](https://img.shields.io/badge/REACT%20%26%20REDUX%20WEB%20APP%20PROJECT-MASTER%20THE%20EVENT%20LOOP-yellow?style=for-the-badge&logo=REACT)](https://github.com/r4pt0s/master_the_event_loop)
+> #### If you are a Javascript developer then you are already familiar with how Javascript works, right?
+> Well, it might not be the case. You are maybe writing Javascript code since years but still don't understand how the language works under the hood. You may have heard about terms such as "Call Stack, Callback Queue, Event Loop" but what's the deal with them?
+>Did you ask yourself, *Why is that, that javascript executes my code not in order if I use a callback function with a settimeout with a delay of 0 right before the console.log?*
+>
+> If you are finding answers to the above questions then you found the right place. This project exactly addresses this fact & tries to explain this fundamental process visually and in words.
+>
+> We are basically building a improved version of [this awesome project](http://latentflip.com/loupe/)
+
+[Project Repo](https://github.com/r4pt0s/master_the_event_loop)
+
 # New To Opensource Projects
 
 If you've never made a pull request before, or participated in an open source project, we recommend taking a look at our [Start Here Guidelines](https://github.com/zero-to-mastery/start-here-guidelines). This repo has everything you need to learn about open source, with a step-by-step guide to making your very first PR.
