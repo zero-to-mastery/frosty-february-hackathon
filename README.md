@@ -17,7 +17,7 @@ To make the projects manageable, the project teams are limited to 10 team member
 
 You can see the 6 projects available for you to join below that will be run/lead by a Star Mentor!
 
-#### [![](https://img.shields.io/badge/PYTHON%20PROJECT-TWITTER%20BOT%20-blue?style=for-the-badge&logo=Python)](https://github.com/sballgirl11/zerotomastery-twitterbot)
+#### [![](https://img.shields.io/badge/PYTHON%20PROJECT-TWITTER%20BOT%20-ffd542?style=for-the-badge&logo=Python)](https://github.com/sballgirl11/zerotomastery-twitterbot)
 
 > With the launch of the [Python course](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=LEVELUPZTM), use your new skills to help build our very own Zero To Mastery Twitter Bot! This bot is going to follow and retweet members on Twitter from the Zero To Mastery community. Come help us build a great resource for our community!
 >
@@ -29,7 +29,7 @@ You can see the 6 projects available for you to join below that will be run/lead
 >
 > [Project Repo](https://github.com/Dan-Y-Ko/zerotomastery-challenge-app) | [Join Project](https://discordapp.com/channels/423464391791476747/668911948829687820/669203111289815090)
 
-#### [![](https://img.shields.io/badge/REACT%20%26%20REDUX%20WEB%20APP%20PROJECT-MASTER%20THE%20EVENT%20LOOP-yellow?style=for-the-badge&logo=REACT)](https://github.com/r4pt0s/master_the_event_loop)
+#### [![](https://img.shields.io/badge/REACT%20%26%20REDUX%20WEB%20APP%20PROJECT-MASTER%20THE%20EVENT%20LOOP-ffa100?style=for-the-badge&logo=REACT)](https://github.com/r4pt0s/master_the_event_loop)
 > *If you are a Javascript developer then you are already familiar with how Javascript works, right?*
 > Well, it might not be the case. You are maybe writing Javascript code since years but still don't understand how the language works under the hood. You may have heard about terms such as "Call Stack, Callback Queue, Event Loop" but what's the deal with them?
 >Did you ask yourself, *Why is that, that javascript executes my code not in order if I use a callback function with a settimeout with a delay of 0 right before the console.log?*
@@ -47,7 +47,7 @@ You can see the 6 projects available for you to join below that will be run/lead
 [Project Repo](https://github.com/RGnt/ZtM-Community-Blog-Posting) | [Join Project]()
 
 #### ZtM-Community-Showcase-Project
-[![](https://img.shields.io/badge/ANGULAR%20PROJECT-ZtM%20COMMUNITY%20SHOWCASE%20PROJECT%20-blue?style=for-the-badge&logo=Angular)](https://github.com/Yejielw/ztm-community-showcase-project)
+[![](https://img.shields.io/badge/ANGULAR%20PROJECT-ZtM%20COMMUNITY%20SHOWCASE%20PROJECT%20-9cf?style=for-the-badge&logo=Angular)](https://github.com/Yejielw/ztm-community-showcase-project)
 > As the community grows lot of people has built great and beautiful stuff, we are making a way so that everyone has a place to share his story and what he has done, find people with similar interests or inspiration.
 
 [Project Repo](https://github.com/Yejielw/ztm-community-showcase-project) | [Join Project]()
