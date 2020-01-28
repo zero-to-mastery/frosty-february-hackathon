@@ -50,7 +50,7 @@ You can see the 6 projects available for you to join below that will be run/lead
 [![](https://img.shields.io/badge/ANGULAR%20PROJECT-ZtM%20COMMUNITY%20SHOWCASE%20PROJECT%20-DD0031?style=for-the-badge&logo=Angular)](https://github.com/Yejielw/ztm-community-showcase-project)
 > As the community grows lot of people has built great and beautiful stuff, we are making a way so that everyone has a place to share his story and what he has done, find people with similar interests or inspiration.
 
-[Project Repo](https://github.com/Yejielw/ztm-community-showcase-project) | [Join Project]()
+[Project Repo](https://github.com/Yejielw/ztm-community-showcase-project) | [Join Project](https://discordapp.com/channels/423464391791476747/668912049719476256)
 
 # New To Opensource Projects
 
