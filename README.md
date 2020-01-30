@@ -40,17 +40,23 @@ You can see the 6 projects available for you to join below that will be run/lead
 >
 > [Project Repo](https://github.com/r4pt0s/master_the_event_loop) | [Join Project](https://discordapp.com/channels/423464391791476747/668911982371536904/669203649704230912)
 
-#### ZtM-Community-Blog-Posting
+
 [![](https://img.shields.io/badge/REACT%20PROJECT-ZtM%20COMMUNITY%20BLOG%20POSTING%20-blue?style=for-the-badge&logo=React)](https://github.com/RGnt/ZtM-Community-Blog-Posting)
 >As the community has grown and a lot of people has shown interest to write guest blog posts, the need to have a place to post them and handle the guest authors rose. So in order to cater for that, we are writing an application to just do that and relieve the burden of Management Team just a touch.
 
-[Project Repo](https://github.com/RGnt/ZtM-Community-Blog-Posting) | [Join Project]()
+[Project Repo](https://github.com/RGnt/ZtM-Community-Blog-Posting) | [Join Project](https://discordapp.com/channels/423464391791476747/668912014826930217/671392643845980171)
 
-#### ZtM-Community-Showcase-Project
+
 [![](https://img.shields.io/badge/ANGULAR%20PROJECT-ZtM%20COMMUNITY%20SHOWCASE%20PROJECT%20-DD0031?style=for-the-badge&logo=Angular)](https://github.com/Yejielw/ztm-community-showcase-project)
 > As the community grows lot of people has built great and beautiful stuff, we are making a way so that everyone has a place to share his story and what he has done, find people with similar interests or inspiration.
 
-[Project Repo](https://github.com/Yejielw/ztm-community-showcase-project) | [Join Project](https://discordapp.com/channels/423464391791476747/668912049719476256)
+[Project Repo](https://github.com/Yejielw/ztm-community-showcase-project) | [Join Project](https://discordapp.com/channels/423464391791476747/668912049719476256/672411812469407745)
+
+
+[![](https://img.shields.io/badge/JAVASCRIPT%20PROJECT-RUSTY%20THE%20ZTM%20GITHUB%20BOT%20-green?style=for-the-badge&logo=javascript)](https://github.com/brian/ghbot)
+> To be updated
+
+[Project Repo](https://github.com/brian/ghbot) | [Join Project](https://discordapp.com/channels/423464391791476747/668912083420839966/672415047795998729)
 
 # New To Opensource Projects
 
