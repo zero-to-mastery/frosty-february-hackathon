@@ -63,6 +63,9 @@ ZTM is a great place to learn and grow as a developer. A big part of growing as 
 
 If you've never made a pull request before, or participated in an open source project, we recommend taking a look at our [Start Here Guidelines](https://github.com/zero-to-mastery/start-here-guidelines). This repo has everything you need to learn about open source, with a step-by-step guide to making your very first PR.
 
+## Looking for more events and challenges?
+We highly recommend checking out the back catalogue of [coding challenges](https://zerotomastery.io/community/coding-challenges/?utm_source=github&utm_medium=frosty-february-hackathon) and [events](https://zerotomastery.io/community/events/?utm_source=github&utm_medium=frosty-february-hackathon). With varying levels of complexity there is something to test and push every skill level. 
+
 # One Last Thing!
 
 **Please note: As with all my challenges there is zero benefit or monetary gain I receive from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
