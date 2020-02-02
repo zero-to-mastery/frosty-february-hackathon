@@ -38,7 +38,7 @@ You can see the 6 projects available for you to join below that will be run/lead
 >
 > We are basically building a improved version of [this awesome project](http://latentflip.com/loupe/)
 >
-> [Project Repo](https://github.com/r4pt0s/master_the_event_loop) | [Join Project](https://discordapp.com/channels/423464391791476747/668911982371536904/669203649704230912)
+> [Project Repo](https://github.com/Dhaval1403/master-the-event-loop) | [Join Project](https://discordapp.com/channels/423464391791476747/668911982371536904/669203649704230912)
 
 
 [![](https://img.shields.io/badge/REACT%20PROJECT-ZtM%20COMMUNITY%20BLOG%20POSTING%20-blue?style=for-the-badge&logo=React)](https://github.com/RGnt/ZtM-Community-Blog-Posting)
