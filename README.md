@@ -53,11 +53,11 @@ You can see the 6 projects available for you to join below that will be run/lead
 [Project Repo](https://github.com/Yejielw/ztm-community-showcase-project) | [Join Project](https://discordapp.com/channels/423464391791476747/668912049719476256/672411812469407745)
 
 
-[![](https://img.shields.io/badge/Node%20Project-Rusty%20the%20ZTM%20GitHub%20Bot-green?style=for-the-badge&logo=Node.js)](https://github.com/Bartholomewbd/Rusty-the-ZTM-GitHub-Bot.git)
+[![](https://img.shields.io/badge/Node%20Project-Rusty%20the%20ZTM%20GitHub%20Bot-green?style=for-the-badge&logo=Node.js)](hhttps://github.com/ZTMDevs/Rusty-the-ZTM-GitHub-Bot
 
 ZTM is a great place to learn and grow as a developer. A big part of growing as a developer is getting involved in open source and helping to maintain the software that so many people rely on.  Within ZTM we have a number of open source projects that are hosted on GitHub in the Organization Zero-To-Mastery.  This project aims to make a number of peoples lives easier.  We will create a bot that does a number of GitHub actions automatically to ease the pain on the maintainers and management team having to review every single pull request that is made to the organization, some of the actions will include checking if you are a member of the organization and add you to it, and check for conflicts on pull requests.  It also aims to make the person submittings life easier by helping the process go smoothly.  These actions will give the submitter some guidances such as automatically inform you if there is a pull request issue such as a conflict and give you steps to remedy it and get your commits in as quickly as possible. This is just a couple of examples of what we hope to accomplish. Once we reach MVP this could be a great ongoing project to work on to continue to introduce new features and additions that make the community just a bit easier to maintain.  
 
-[Project Repo](https://github.com/Bartholomewbd/Rusty-the-ZTM-GitHub-Bot) | [Join Project](https://discordapp.com/channels/423464391791476747/668912083420839966/672415047795998729)
+[Project Repo](https://github.com/ZTMDevs/Rusty-the-ZTM-GitHub-Bot) | [Join Project](https://discordapp.com/channels/423464391791476747/668912083420839966/672415047795998729)
 
 # New To Opensource Projects
 
